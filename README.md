@@ -10,6 +10,6 @@
 9. rename activity column with more descriptive names
 10. rename measurement variables with more descriptive names
 11. upload dplyr package
-12. grouping by subject and activity; summarize each measurement under grouping result; create final data set
+12. grouping by subject and activity; calculate average value of each measurement under grouping result; create final data set
 13. check dimension to see result
-13. write finaldata to local JH-finaldata as txt file; remove row name
+13. write finaldata to local JH-finaldata as txt file
