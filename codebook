@@ -1,0 +1,69 @@
+JH-finaldata (Samsung Measurement Analysis)
+ [1] "subject" (1-30)   represents  volunteer 1 through volunteer 30 who participate in this study 
+ [2] "activity"         represents six different activities which volunteers undergo                    
+ [3] "timeBodyAccelerated.mean.X"       average time domain body acceleration signal on x axis   
+ [4] "timeBodyAccelerated.mean.Y"       average time domain body acceleration signal on y axis     
+ [5] "timeBodyAccelerated.mean.Z"       average time domain body acceleration signal on z axis     
+ [6] "timeGraviAccelerated.mean.X"      average time domain gravity acceleration signal on x axis     
+ [7] "timeGraviAccelerated.mean.Y"      average time domain gravity acceleration signal on y axis     
+ [8] "timeGraviAccelerated.mean.Z"      average time domain gravity acceleration signal on z axis     
+ [9] "timeBodyAcceleratedJerk.mean.X"   average time domain body accelerated Jerk signal on x axis    
+[10] "timeBodyAcceleratedJerk.mean.Y"   average time domain body accelerated Jerk signal on y axis    
+[11] "timeBodyAcceleratedJerk.mean.Z"   average time domain body accelerated Jerk signal on z axis    
+[12] "timeBodyGyro.mean.X"              average time domain body gyroscope signal on x axis    
+[13] "timeBodyGyro.mean.Y"              average time domain body gyroscope signal on y axis    
+[14] "timeBodyGyro.mean.Z"              average time domain body gyroscope signal on z axis    
+[15] "timeBodyGyroJerk.mean.X"          average time domain body gyroscope Jerk signal on x axis    
+[16] "timeBodyGyroJerk.mean.Y"          average time domain body gyroscope Jerk signal on y axis    
+[17] "timeBodyGyroJerk.mean.Z"          average time domain body gyroscope Jerk signal on z axis    
+[18] "timeBodyAcceleratedMagnitude.mean"        average magnitude of time domain body acceleration signal
+[19] "timeGraviAcceleratedMagnitude.mean"       average magnitude of time domain gravity acceleration signal
+[20] "timeBodyAcceleratedJerkMagnitude.mean"     average magnitude of time domain body acceleration Jerk signal
+[21] "timeBodyGyroMagnitude.mean"                average magnitude of time domain body gyroscope signal
+[22] "timeBodyGyroJerkMagnitude.mean"            average magnitude of time domain body gyroscope Jerk signal
+[23] "freqBodyAccelerated.mean.X"                average frequency domain body acceleration signal on x axis
+[24] "freqBodyAccelerated.mean.Y"                average frequency domain body acceleration signal on y axis
+[25] "freqBodyAccelerated.mean.Z"                average frequency domain body acceleration signal on z axis
+[26] "freqBodyAcceleratedJerk.mean.X"            average frequency domain body acceleration Jerk signal on x axis
+[27] "freqBodyAcceleratedJerk.mean.Y"            average frequency domain body acceleration Jerk signal on y axis
+[28] "freqBodyAcceleratedJerk.mean.Z"            average frequency domain body acceleration Jerk signal on z axis
+[29] "freqBodyGyro.mean.X"                       average frequency domain body gyroscope signal on x axis
+[30] "freqBodyGyro.mean.Y"                       average frequency domain body gyroscope signal on y axis
+[31] "freqBodyGyro.mean.Z"                       average frequency domain body gyroscope signal on z axis
+[32] "freqBodyAcceleratedMagnitude.mean"         average magnitude of frequency domain body acceleration signal
+[33] "freqBodyAcceleratedJerkMagnitude.mean"     average magnitude of frequency domain body acceleration Jerk signal
+[34] "freqBodyGyroMagnitude.mean"                average magnitude of frequency domain body gyroscope signal
+[35] "freqBodyGyroJerkMagnitude.mean"            average magnitude of frequency domain body gyroscope Jerk signal
+[36] "timeBodyAccelerated.std.X"                 standard deviation of time domain body acceleration signal on x axis
+[37] "timeBodyAccelerated.std.Y"                 standard deviation of time domain body acceleration signal on y axis
+[38] "timeBodyAccelerated.std.Z"                 standard deviation of time domain body acceleration signal on z axis
+[39] "timeGraviAccelerated.std.X"                standard deviation of time domain gravity acceleration signal on x axis
+[40] "timeGraviAccelerated.std.Y"                standard deviation of time domain gravity acceleration signal on y axis
+[41] "timeGraviAccelerated.std.Z"                standard deviation of time domain gravity acceleration signal on z axis
+[42] "timeBodyAcceleratedJerk.std.X"             standard deviation of time domain body acceleration Jerk signal on x axis
+[43] "timeBodyAcceleratedJerk.std.Y"             standard deviation of time domain body acceleration Jerk signal on y axis
+[44] "timeBodyAcceleratedJerk.std.Z"             standard deviation of time domain body acceleration Jerk signal on z axis
+[45] "timeBodyGyro.std.X"                        standard deviation of time domain body gyroscope signal on x axis
+[46] "timeBodyGyro.std.Y"                        standard deviation of time domain body gyroscope signal on y axis
+[47] "timeBodyGyro.std.Z"                        standard deviation of time domain body gyroscope signal on z axis
+[48] "timeBodyGyroJerk.std.X"                    standard deviation of time domain body gyroscope Jerk signal on x axis
+[49] "timeBodyGyroJerk.std.Y"                    standard deviation of time domain body gyroscope Jerk signal on y axis
+[50] "timeBodyGyroJerk.std.Z"                    standard deviation of time domain body gyroscope Jerk signal on z axis
+[51] "timeBodyAcceleratedMagnitude.std"          standard deviation of time domain body acceleration magnitude
+[52] "timeGraviAcceleratedMagnitude.std"         standard deviation of time domain gravity acceleration magnitude
+[53] "timeBodyAcceleratedJerkMagnitude.std"      standard deviation of time domain body acceleration Jerk signal magnitude
+[54] "timeBodyGyroMagnitude.std"                 standard deviation of time domain body gyroscope magnitude
+[55] "timeBodyGyroJerkMagnitude.std"             standard deviation of time domain body gyroscope Jerk magnitude
+[56] "freqBodyAccelerated.std.X"                 standard deviation of frequency domain body acceleration signal on x axis
+[57] "freqBodyAccelerated.std.Y"                 standard deviation of frequency domain body acceleration signal on y axis
+[58] "freqBodyAccelerated.std.Z"                 standard deviation of frequency domain body acceleration signal on z axis
+[59] "freqBodyAcceleratedJerk.std.X"             standard deviation of frequency domain body acceleration Jerk signal on x
+[60] "freqBodyAcceleratedJerk.std.Y"             standard deviation of frequency domain body acceleration Jerk signal on y
+[61] "freqBodyAcceleratedJerk.std.Z"             standard deviation of frequency domain body acceleration Jerk signal on z
+[62] "freqBodyGyro.std.X"                        standard deviation of frequency domain body gyroscope signal on x axis
+[63] "freqBodyGyro.std.Y"                        standard deviation of frequency domain body gyroscope signal on y axis
+[64] "freqBodyGyro.std.Z"                        standard deviation of frequency domain body gyroscope signal on z axis
+[65] "freqBodyAcceleratedMagnitude.std"          standard deviation of frequency domain body acceleration magnitude
+[66] "freqBodyAcceleratedJerkMagnitude.std"      standard deviation of frequency domain body acceleration jerk signal magnitude
+[67] "freqBodyGyroMagnitude.std"                 standard deviation of frequency domain body gyroscope magnitude
+[68] "freqBodyGyroJerkMagnitude.std"             standard deviation of frequency domain body gyroscope Jerk signal magnitude
